@@ -2,7 +2,7 @@ import google.generativeai as palm
 import telebot
 
 # Your Telegram bot token
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '7061150538:AAFS9JnMrvKzWRAszgFYkruCUVzUcg3By3U'
 
 # Configure the generative AI API key
 palm.configure(api_key="YOUR_GENERATIVE_AI_API_KEY")
