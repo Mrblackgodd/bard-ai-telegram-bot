@@ -5,7 +5,7 @@ import telebot
 TOKEN = '7061150538:AAFS9JnMrvKzWRAszgFYkruCUVzUcg3By3U'
 
 # Configure the generative AI API key
-palm.configure(api_key="YOUR_GENERATIVE_AI_API_KEY")
+palm.configure(api_key="AIzaSyDPMLKIoMqpOAir2OKAB8W2Ij4mdz-dOVE")
 
 # Create a Telegram bot instance
 bot = telebot.TeleBot(TOKEN)
